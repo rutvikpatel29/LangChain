@@ -1,0 +1,21 @@
+# Core LangChain dependencies
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-core>=0.1.0
+
+# Hugging Face transformers and related packages
+transformers>=4.35.0
+torch>=2.6.0
+tokenizers>=0.15.0
+
+# Hugging Face Hub for model access
+huggingface-hub>=0.19.0
+
+# Additional dependencies for pipeline functionality
+accelerate>=0.24.0
+safetensors>=0.4.0
+
+# Utility packages
+numpy>=1.24.0
+requests>=2.31.0
+tqdm>=4.65.0
